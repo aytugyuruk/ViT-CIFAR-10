@@ -7,7 +7,7 @@ This repository presents a compact implementation of a Vision Transformer (ViT) 
 </p>
 
 <p align="center">
-  This schema of Vision Transformer.
+  The schema of Vision Transformer architecture.
 </p>
 
 ## Objective
