@@ -2,6 +2,14 @@
 
 This repository presents a compact implementation of a Vision Transformer (ViT) model trained for image classification on the CIFAR-10 dataset using PyTorch.
 
+<p align="center">
+  <img src="schema.png" width="500">
+</p>
+
+<p align="center">
+  This schema of Vision Transformer.
+</p>
+
 ## Objective
 
 The objective is to implement the core ViT pipeline from first principles and evaluate its performance on a standard benchmark dataset.
